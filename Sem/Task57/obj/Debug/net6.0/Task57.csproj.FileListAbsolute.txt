@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.AssemblyInfo.cs
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\bin\Debug\net6.0\Task57.exe
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\bin\Debug\net6.0\Task57.deps.json
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\bin\Debug\net6.0\Task57.runtimeconfig.json
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\bin\Debug\net6.0\Task57.dll
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\bin\Debug\net6.0\Task57.pdb
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.dll
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\refint\Task57.dll
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.pdb
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\Task57.genruntimeconfig.cache
+C:\Users\Максим\Desktop\C#\Семинар 8\Task57\obj\Debug\net6.0\ref\Task57.dll
